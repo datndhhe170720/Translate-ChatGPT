@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\GitHub\DoAn\Translate-ChatGPT\Translate_ChatGPT\Translate_ChatGPT.Web\wwwroot\bootstrap\bootstrap.min.css
+C:\Users\PC\Documents\GitHub\DoAn\Translate-ChatGPT\Translate_ChatGPT\Translate_ChatGPT.Web\wwwroot\bootstrap\bootstrap.min.css.map
+C:\Users\PC\Documents\GitHub\DoAn\Translate-ChatGPT\Translate_ChatGPT\Translate_ChatGPT.Web\wwwroot\app.css
+wwwroot\app.css
+wwwroot\bootstrap\bootstrap.min.css
+wwwroot\bootstrap\bootstrap.min.css.map
+wwwroot\favicon.png

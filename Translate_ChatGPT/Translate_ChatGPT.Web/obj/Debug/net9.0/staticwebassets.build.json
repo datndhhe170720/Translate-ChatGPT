@@ -1,0 +1,1825 @@
+{
+  "Version": 1,
+  "Hash": "cnuf5t37nsIJyoiYOZsqDMb+4eaztxbFZuZ65C+McV4=",
+  "Source": "Translate_ChatGPT.Web",
+  "BasePath": "_content/Translate_ChatGPT.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Translate_ChatGPT.Web\\wwwroot",
+      "Source": "Translate_ChatGPT.Web",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\wwwroot\\",
+      "BasePath": "_content/Translate_ChatGPT.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\4bammbrngn-rtw43ukq80.gz",
+      "SourceId": "Translate_ChatGPT.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Translate_ChatGPT.Web",
+      "RelativePath": "Translate_ChatGPT.Web#[.{fingerprint=rtw43ukq80}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Translate_ChatGPT.Web.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "z6qrx570te",
+      "Integrity": "WyI1O4HVLlVjvgyS27LiU2korndVooOJLgdTIMLz9rQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Translate_ChatGPT.Web.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\g93fpfixud-rtw43ukq80.gz",
+      "SourceId": "Translate_ChatGPT.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Translate_ChatGPT.Web",
+      "RelativePath": "Translate_ChatGPT.Web#[.{fingerprint=rtw43ukq80}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Translate_ChatGPT.Web.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "z6qrx570te",
+      "Integrity": "WyI1O4HVLlVjvgyS27LiU2korndVooOJLgdTIMLz9rQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Translate_ChatGPT.Web.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\mgs8hj9q6v-6gzpyzhau4.gz",
+      "SourceId": "Translate_ChatGPT.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Translate_ChatGPT.Web",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "joqzyw7ssu",
+      "Integrity": "LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\wnavrbao0p-8inm30yfxf.gz",
+      "SourceId": "Translate_ChatGPT.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Translate_ChatGPT.Web",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fbl5ivwo6k",
+      "Integrity": "Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\wqac0rjq7w-oz9ai62g4c.gz",
+      "SourceId": "Translate_ChatGPT.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Translate_ChatGPT.Web",
+      "RelativePath": "app#[.{fingerprint=oz9ai62g4c}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\wwwroot\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "igsh4d3ps3",
+      "Integrity": "UvI2hzTlXr5QUk2w3JtQGJ8OpxRSa/iAQ+NWGUV80H8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Translate_ChatGPT.Web.styles.css",
+      "SourceId": "Translate_ChatGPT.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Translate_ChatGPT.Web",
+      "RelativePath": "Translate_ChatGPT.Web#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "rtw43ukq80",
+      "Integrity": "0aUIa6fHJSXmR+cpjuk28Izh4V4CYwEC+boinZ6BtFk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Translate_ChatGPT.Web.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Translate_ChatGPT.Web.bundle.scp.css",
+      "SourceId": "Translate_ChatGPT.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Translate_ChatGPT.Web",
+      "RelativePath": "Translate_ChatGPT.Web#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "rtw43ukq80",
+      "Integrity": "0aUIa6fHJSXmR+cpjuk28Izh4V4CYwEC+boinZ6BtFk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Translate_ChatGPT.Web.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\wwwroot\\app.css",
+      "SourceId": "Translate_ChatGPT.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\wwwroot\\",
+      "BasePath": "_content/Translate_ChatGPT.Web",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oz9ai62g4c",
+      "Integrity": "7GTFLdHEArPEyiCLjIdLdvlzjMUc8yvYbf3wwkHEaKU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "Translate_ChatGPT.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\wwwroot\\",
+      "BasePath": "_content/Translate_ChatGPT.Web",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "Translate_ChatGPT.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\wwwroot\\",
+      "BasePath": "_content/Translate_ChatGPT.Web",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\wwwroot\\favicon.png",
+      "SourceId": "Translate_ChatGPT.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\wwwroot\\",
+      "BasePath": "_content/Translate_ChatGPT.Web",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\wqac0rjq7w-oz9ai62g4c.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000704721635"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1418"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UvI2hzTlXr5QUk2w3JtQGJ8OpxRSa/iAQ+NWGUV80H8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7GTFLdHEArPEyiCLjIdLdvlzjMUc8yvYbf3wwkHEaKU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7GTFLdHEArPEyiCLjIdLdvlzjMUc8yvYbf3wwkHEaKU="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7GTFLdHEArPEyiCLjIdLdvlzjMUc8yvYbf3wwkHEaKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7GTFLdHEArPEyiCLjIdLdvlzjMUc8yvYbf3wwkHEaKU="
+        }
+      ]
+    },
+    {
+      "Route": "app.css.gz",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\wqac0rjq7w-oz9ai62g4c.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UvI2hzTlXr5QUk2w3JtQGJ8OpxRSa/iAQ+NWGUV80H8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UvI2hzTlXr5QUk2w3JtQGJ8OpxRSa/iAQ+NWGUV80H8="
+        }
+      ]
+    },
+    {
+      "Route": "app.oz9ai62g4c.css",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\wqac0rjq7w-oz9ai62g4c.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000704721635"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1418"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UvI2hzTlXr5QUk2w3JtQGJ8OpxRSa/iAQ+NWGUV80H8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7GTFLdHEArPEyiCLjIdLdvlzjMUc8yvYbf3wwkHEaKU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oz9ai62g4c"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7GTFLdHEArPEyiCLjIdLdvlzjMUc8yvYbf3wwkHEaKU="
+        }
+      ]
+    },
+    {
+      "Route": "app.oz9ai62g4c.css",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7GTFLdHEArPEyiCLjIdLdvlzjMUc8yvYbf3wwkHEaKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oz9ai62g4c"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7GTFLdHEArPEyiCLjIdLdvlzjMUc8yvYbf3wwkHEaKU="
+        }
+      ]
+    },
+    {
+      "Route": "app.oz9ai62g4c.css.gz",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\wqac0rjq7w-oz9ai62g4c.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UvI2hzTlXr5QUk2w3JtQGJ8OpxRSa/iAQ+NWGUV80H8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oz9ai62g4c"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UvI2hzTlXr5QUk2w3JtQGJ8OpxRSa/iAQ+NWGUV80H8="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\mgs8hj9q6v-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041844506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css.gz",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\mgs8hj9q6v-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\mgs8hj9q6v-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041844506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\wnavrbao0p-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\wnavrbao0p-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.gz",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\mgs8hj9q6v-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\wnavrbao0p-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map.gz",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\wnavrbao0p-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:08:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "Translate_ChatGPT.Web.bundle.scp.css",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\g93fpfixud-rtw43ukq80.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000576701269"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1733"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WyI1O4HVLlVjvgyS27LiU2korndVooOJLgdTIMLz9rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:19:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0aUIa6fHJSXmR+cpjuk28Izh4V4CYwEC+boinZ6BtFk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0aUIa6fHJSXmR+cpjuk28Izh4V4CYwEC+boinZ6BtFk="
+        }
+      ]
+    },
+    {
+      "Route": "Translate_ChatGPT.Web.bundle.scp.css",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Translate_ChatGPT.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5810"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0aUIa6fHJSXmR+cpjuk28Izh4V4CYwEC+boinZ6BtFk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:19:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0aUIa6fHJSXmR+cpjuk28Izh4V4CYwEC+boinZ6BtFk="
+        }
+      ]
+    },
+    {
+      "Route": "Translate_ChatGPT.Web.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\g93fpfixud-rtw43ukq80.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WyI1O4HVLlVjvgyS27LiU2korndVooOJLgdTIMLz9rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:19:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WyI1O4HVLlVjvgyS27LiU2korndVooOJLgdTIMLz9rQ="
+        }
+      ]
+    },
+    {
+      "Route": "Translate_ChatGPT.Web.rtw43ukq80.bundle.scp.css",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\g93fpfixud-rtw43ukq80.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000576701269"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1733"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WyI1O4HVLlVjvgyS27LiU2korndVooOJLgdTIMLz9rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:19:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0aUIa6fHJSXmR+cpjuk28Izh4V4CYwEC+boinZ6BtFk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rtw43ukq80"
+        },
+        {
+          "Name": "label",
+          "Value": "Translate_ChatGPT.Web.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0aUIa6fHJSXmR+cpjuk28Izh4V4CYwEC+boinZ6BtFk="
+        }
+      ]
+    },
+    {
+      "Route": "Translate_ChatGPT.Web.rtw43ukq80.bundle.scp.css",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Translate_ChatGPT.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5810"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0aUIa6fHJSXmR+cpjuk28Izh4V4CYwEC+boinZ6BtFk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:19:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rtw43ukq80"
+        },
+        {
+          "Name": "label",
+          "Value": "Translate_ChatGPT.Web.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0aUIa6fHJSXmR+cpjuk28Izh4V4CYwEC+boinZ6BtFk="
+        }
+      ]
+    },
+    {
+      "Route": "Translate_ChatGPT.Web.rtw43ukq80.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\g93fpfixud-rtw43ukq80.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WyI1O4HVLlVjvgyS27LiU2korndVooOJLgdTIMLz9rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:19:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rtw43ukq80"
+        },
+        {
+          "Name": "label",
+          "Value": "Translate_ChatGPT.Web.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WyI1O4HVLlVjvgyS27LiU2korndVooOJLgdTIMLz9rQ="
+        }
+      ]
+    },
+    {
+      "Route": "Translate_ChatGPT.Web.rtw43ukq80.styles.css",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\4bammbrngn-rtw43ukq80.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000576701269"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1733"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WyI1O4HVLlVjvgyS27LiU2korndVooOJLgdTIMLz9rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:19:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0aUIa6fHJSXmR+cpjuk28Izh4V4CYwEC+boinZ6BtFk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rtw43ukq80"
+        },
+        {
+          "Name": "label",
+          "Value": "Translate_ChatGPT.Web.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0aUIa6fHJSXmR+cpjuk28Izh4V4CYwEC+boinZ6BtFk="
+        }
+      ]
+    },
+    {
+      "Route": "Translate_ChatGPT.Web.rtw43ukq80.styles.css",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Translate_ChatGPT.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5810"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0aUIa6fHJSXmR+cpjuk28Izh4V4CYwEC+boinZ6BtFk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:19:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rtw43ukq80"
+        },
+        {
+          "Name": "label",
+          "Value": "Translate_ChatGPT.Web.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0aUIa6fHJSXmR+cpjuk28Izh4V4CYwEC+boinZ6BtFk="
+        }
+      ]
+    },
+    {
+      "Route": "Translate_ChatGPT.Web.rtw43ukq80.styles.css.gz",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\4bammbrngn-rtw43ukq80.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WyI1O4HVLlVjvgyS27LiU2korndVooOJLgdTIMLz9rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:19:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rtw43ukq80"
+        },
+        {
+          "Name": "label",
+          "Value": "Translate_ChatGPT.Web.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WyI1O4HVLlVjvgyS27LiU2korndVooOJLgdTIMLz9rQ="
+        }
+      ]
+    },
+    {
+      "Route": "Translate_ChatGPT.Web.styles.css",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\4bammbrngn-rtw43ukq80.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000576701269"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1733"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WyI1O4HVLlVjvgyS27LiU2korndVooOJLgdTIMLz9rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:19:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0aUIa6fHJSXmR+cpjuk28Izh4V4CYwEC+boinZ6BtFk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0aUIa6fHJSXmR+cpjuk28Izh4V4CYwEC+boinZ6BtFk="
+        }
+      ]
+    },
+    {
+      "Route": "Translate_ChatGPT.Web.styles.css",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Translate_ChatGPT.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5810"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0aUIa6fHJSXmR+cpjuk28Izh4V4CYwEC+boinZ6BtFk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:19:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0aUIa6fHJSXmR+cpjuk28Izh4V4CYwEC+boinZ6BtFk="
+        }
+      ]
+    },
+    {
+      "Route": "Translate_ChatGPT.Web.styles.css.gz",
+      "AssetFile": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.Web\\obj\\Debug\\net9.0\\compressed\\4bammbrngn-rtw43ukq80.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WyI1O4HVLlVjvgyS27LiU2korndVooOJLgdTIMLz9rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 05 Jan 2025 08:19:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WyI1O4HVLlVjvgyS27LiU2korndVooOJLgdTIMLz9rQ="
+        }
+      ]
+    }
+  ]
+}

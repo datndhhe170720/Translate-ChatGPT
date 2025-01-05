@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\GitHub\DoAn\Translate-ChatGPT\Translate_ChatGPT\Translate_ChatGPT.ServiceDefaults\bin\Debug\net9.0\Translate_ChatGPT.ServiceDefaults.deps.json
+C:\Users\PC\Documents\GitHub\DoAn\Translate-ChatGPT\Translate_ChatGPT\Translate_ChatGPT.ServiceDefaults\bin\Debug\net9.0\Translate_ChatGPT.ServiceDefaults.dll
+C:\Users\PC\Documents\GitHub\DoAn\Translate-ChatGPT\Translate_ChatGPT\Translate_ChatGPT.ServiceDefaults\bin\Debug\net9.0\Translate_ChatGPT.ServiceDefaults.pdb
+C:\Users\PC\Documents\GitHub\DoAn\Translate-ChatGPT\Translate_ChatGPT\Translate_ChatGPT.ServiceDefaults\obj\Debug\net9.0\Translate_ChatGPT.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\DoAn\Translate-ChatGPT\Translate_ChatGPT\Translate_ChatGPT.ServiceDefaults\obj\Debug\net9.0\Translate_ChatGPT.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\DoAn\Translate-ChatGPT\Translate_ChatGPT\Translate_ChatGPT.ServiceDefaults\obj\Debug\net9.0\Translate_ChatGPT.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\DoAn\Translate-ChatGPT\Translate_ChatGPT\Translate_ChatGPT.ServiceDefaults\obj\Debug\net9.0\Translate_ChatGPT.ServiceDefaults.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\DoAn\Translate-ChatGPT\Translate_ChatGPT\Translate_ChatGPT.ServiceDefaults\obj\Debug\net9.0\Translate_ChatGPT.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\DoAn\Translate-ChatGPT\Translate_ChatGPT\Translate_ChatGPT.ServiceDefaults\obj\Debug\net9.0\Translate_ChatGPT.ServiceDefaults.sourcelink.json
+C:\Users\PC\Documents\GitHub\DoAn\Translate-ChatGPT\Translate_ChatGPT\Translate_ChatGPT.ServiceDefaults\obj\Debug\net9.0\Translate_ChatGPT.ServiceDefaults.dll
+C:\Users\PC\Documents\GitHub\DoAn\Translate-ChatGPT\Translate_ChatGPT\Translate_ChatGPT.ServiceDefaults\obj\Debug\net9.0\refint\Translate_ChatGPT.ServiceDefaults.dll
+C:\Users\PC\Documents\GitHub\DoAn\Translate-ChatGPT\Translate_ChatGPT\Translate_ChatGPT.ServiceDefaults\obj\Debug\net9.0\Translate_ChatGPT.ServiceDefaults.pdb
+C:\Users\PC\Documents\GitHub\DoAn\Translate-ChatGPT\Translate_ChatGPT\Translate_ChatGPT.ServiceDefaults\obj\Debug\net9.0\ref\Translate_ChatGPT.ServiceDefaults.dll

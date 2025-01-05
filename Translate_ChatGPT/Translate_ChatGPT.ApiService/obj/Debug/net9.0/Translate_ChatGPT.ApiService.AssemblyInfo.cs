@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Translate_ChatGPT.ApiService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de744d02abf3a50a3676f598810624ba837bbb86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98f7b033850b25ecffa60b843927520b29498a33")]
 [assembly: System.Reflection.AssemblyProductAttribute("Translate_ChatGPT.ApiService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Translate_ChatGPT.ApiService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

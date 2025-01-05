@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{739AB948-BA31-4D8B-B1A1-2E90D75E049B}|Translate_ChatGPT.ServiceDefaults\\Translate_ChatGPT.ServiceDefaults.csproj|c:\\users\\pc\\documents\\github\\doan\\translate-chatgpt\\translate_chatgpt\\translate_chatgpt.servicedefaults\\translate_chatgpt.servicedefaults.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{739AB948-BA31-4D8B-B1A1-2E90D75E049B}|Translate_ChatGPT.ServiceDefaults\\Translate_ChatGPT.ServiceDefaults.csproj|solutionrelative:translate_chatgpt.servicedefaults\\translate_chatgpt.servicedefaults.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CE749A-820B-49F2-A08B-B9671B76D4B8}|Translate_ChatGPT.ApiService\\Translate_ChatGPT.ApiService.csproj|c:\\users\\pc\\documents\\github\\doan\\translate-chatgpt\\translate_chatgpt\\translate_chatgpt.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17CE749A-820B-49F2-A08B-B9671B76D4B8}|Translate_ChatGPT.ApiService\\Translate_ChatGPT.ApiService.csproj|solutionrelative:translate_chatgpt.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +35,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Translate_ChatGPT.ServiceDefaults",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.ServiceDefaults\\Translate_ChatGPT.ServiceDefaults.csproj",
+              "RelativeDocumentMoniker": "Translate_ChatGPT.ServiceDefaults\\Translate_ChatGPT.ServiceDefaults.csproj",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.ServiceDefaults\\Translate_ChatGPT.ServiceDefaults.csproj",
+              "RelativeToolTip": "Translate_ChatGPT.ServiceDefaults\\Translate_ChatGPT.ServiceDefaults.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-05T08:09:26.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.ApiService\\Program.cs",
+              "RelativeDocumentMoniker": "Translate_ChatGPT.ApiService\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\DoAn\\Translate-ChatGPT\\Translate_ChatGPT\\Translate_ChatGPT.ApiService\\Program.cs",
+              "RelativeToolTip": "Translate_ChatGPT.ApiService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:09:17.874Z",
+              "EditorCaption": ""
             }
           ]
         }

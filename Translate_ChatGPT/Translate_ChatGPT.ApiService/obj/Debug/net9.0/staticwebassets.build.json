@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UF+SdPjCLdI8P+3sma9UTrK7sP6yBi4q5H/CVy/tPRI=",
+  "Source": "Translate_ChatGPT.ApiService",
+  "BasePath": "_content/Translate_ChatGPT.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
